@@ -8,13 +8,13 @@ To answer questions, please just put the answer on the next line after the quest
 
 Example:  
 
-**What is your name?**
+**What is your name?**  
 Sir Student of Ruby
 
-**What is your quest?**
+**What is your quest?**  
 I seek the Rails  
 
-**What is your favorite color?**
+**What is your favorite color?**  
 ~~Green~~ edit:  No, blue.  Blue!  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
